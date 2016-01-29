@@ -1,3 +1,6 @@
 [submodule "WRF_MODEL"]
 	path = WRF_MODEL
 	url = https://github.com/wrf-model/WRF_MODEL
+[submodule "WPS"]
+	path = WPS
+	url = https://svn-wrf-wps.cgd.ucar.edu/trunk
